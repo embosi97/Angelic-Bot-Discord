@@ -15,7 +15,8 @@ $new - Allows the user to add to the Angelic Bot's responses to certain key word
 
 $del - Deletes a user submitted quote.
 
-$demon - Makes the bot say something truly mean-sprited that's been zalgofied using the zalgofy module.
+$demon - Makes the bot say something truly mean-sprited that's been zalgofied using the zalgofy module https://pypi.org/project/zalgoify/. 
+The mean quotes are courtesy of https://evilinsult.com/api/
 
 $list - Lists all the user submitted quotes.
 
